@@ -1,0 +1,14 @@
+{
+  "index": {
+    "title": "Főoldal",
+    "cta": "2. oldalra"
+  },
+  "page-2": {
+    "path": "/oldal-2/",
+    "title": "2. oldal"
+  },
+  "using-typescript": {
+    "path": "/typescript-hasznalata/",
+    "title": "Typescript Használata"
+  }
+}

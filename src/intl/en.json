@@ -1,0 +1,14 @@
+{
+  "index": {
+    "title": "Home",
+    "cta": "Go to page 2"
+  },
+  "page-2": {
+    "path": "/page-2/",
+    "title": "Page 2"
+  },
+  "using-typescript": {
+    "path": "/using-typescript/",
+    "title": "Using Typescript"
+  }
+}
